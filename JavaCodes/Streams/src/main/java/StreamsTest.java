@@ -6,6 +6,8 @@ import java.io.IOException;
 public class StreamsTest {
 
     public static void main(String[] args) {
+        
+        //open an output stream to send from the application to the txt file
         /*File file=new File("hello.txt");
         FileOutputStream fileOutputStream=null;
         try{
@@ -27,7 +29,8 @@ public class StreamsTest {
             }
         }*/
         
-        File file=new File("hello.txt");
+        //open an input stream to get from the txt file to the application
+        /*File file=new File("hello.txt");
         
         FileInputStream fileInputStream=null;
         
@@ -53,7 +56,7 @@ public class StreamsTest {
             catch(IOException e){
                 System.out.println(e.getMessage());
             }
-        }
+        }*/
     }
     
 }
