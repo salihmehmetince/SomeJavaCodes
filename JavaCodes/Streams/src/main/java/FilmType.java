@@ -1,0 +1,4 @@
+
+public enum FilmType {
+    ACTION,COMEDY,ADVENTURE,THRILLER,HORROR
+}
