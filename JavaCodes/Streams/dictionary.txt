@@ -1,0 +1,8 @@
+yumuşak:smooth
+dar:narrow
+hazır:ready
+gelmek:come
+askıya almak:suspend
+hazırlamak:prepare
+çaresiz:desperate
+yeni:new
